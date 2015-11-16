@@ -1,0 +1,2 @@
+# gnuradio_compile_debbug
+just learning GitHub and same tim uploading log files from GnuRadio brew
